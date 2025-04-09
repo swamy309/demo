@@ -7,7 +7,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <!-- <class name="com.abhayam.tests.com.abhayam.tests.CapturingScreenshots"/>
-      <class name="com.abhayam.tests.waits"/>
+      
       <class name="com.abhayam.tests.Cookies"/>-->
       <class name="com.abhayam.tests.LoginTest"/>
     </classes>
